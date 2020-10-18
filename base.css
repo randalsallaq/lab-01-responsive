@@ -1,0 +1,16 @@
+
+
+div{
+    background-color: aqua;
+    text-align: center;
+    border: solid 1px black;
+}
+
+
+@media (min-width: 768px) {
+    div{
+        background-color: coral;
+        text-align: center;
+    border: solid 1px black;
+    }
+}
