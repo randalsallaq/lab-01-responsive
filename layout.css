@@ -1,0 +1,179 @@
+
+
+#div1{
+    width: 480px ;
+    height: 75px;
+    border-bottom: 0px;
+    
+}
+
+#div2{
+    width: 480px;
+    height: 150px;
+    border-bottom: 0px;
+}
+
+
+#div3{
+    width: 480px ;
+    height:125px ;
+    border-bottom: 0px;
+}
+
+
+#div4{
+    width: 480px ;
+    height: 125px ;
+    border-bottom: 0px;
+}
+
+
+#div5{
+    width: 240px;
+    height: 250px ;
+    display: inline-block;
+    border-left: 0px;
+    border-bottom: 0px;
+    
+}
+
+
+#div6{
+    width: 240px;
+    height: 250px ;
+    display: inline-block;
+    margin:0;padding:0; 
+    float:left;
+    border-bottom: 0px;
+}
+
+#emptydiv{
+    display: block;
+    border-bottom: 0px;
+}
+
+#div7{
+    width: 240px;
+    height: 250px ;
+    display: inline-block;
+    margin:0;padding:0; 
+    float:left;
+    border-bottom: 0px;
+}
+
+#div8{
+    width: 240px;
+    height: 250px ;
+    display: inline-block;
+    border-left: 0px;
+    border-bottom: 0px;
+}
+
+#div9{
+    width: 480px ;
+    height: 80px;
+}
+
+/*************************************************************/
+@media (min-width: 768px) {
+    #div1{
+        width: 960px ;
+        height: 100px;
+        /* border-bottom: 0px; */
+        
+    }
+    
+    #div2{
+        width: 200px;
+        height: 600px;
+        float: left;
+        /* display: inline-block; */
+        
+    }
+    
+    
+    #div3{
+        width: 380px ;
+        height:200px ;
+        float: left;
+        /* clear: both;     */
+        /* display: inline-block; */
+        
+    }
+    
+    
+    #div4{
+        width: 380px ;
+        height: 200px ;
+        float: left;
+        /* clear: both; */
+        /* border-bottom: 0px; */
+        /* display: inline-block; */
+        
+    }
+    
+    
+    #div5{
+        width: 190px;
+        height: 250px ;
+        /* display: inline-block; */
+        border-left: 0px;
+        border-bottom: 0px;
+        float: left;
+        /* clear: left; */
+        
+    }
+    
+    /* #emptydivdesk{
+        display: block;
+        clear: both;
+    } */
+    #div6{
+        width: 190px;
+        height: 250px ;
+        /* display: inline-block; */
+        margin:0;padding:0; 
+        float:left;
+        border-bottom: 0px;
+        
+        
+        
+    }
+    
+    /* #emptydiv{
+        display: block;
+        border-bottom: 0px;
+    } */
+    
+    #div7{
+        width: 190px;
+        height: 250px ;
+        /* display: inline-block; */
+        margin:0;padding:0; 
+        float:left;
+        border-bottom: 0px;
+        
+        
+        
+    }
+    
+    #div8{
+        width: 190px;
+        height: 250px ;
+        /* display: inline-block; */
+        border-left: 0px;
+        border-bottom: 0px;
+        /* float: left; */
+        clear: both;
+        
+        
+    }
+    
+    
+    
+ 
+    #div9{
+        width: 760px ;
+        height: 50px;
+    }
+}
